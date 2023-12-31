@@ -1,6 +1,5 @@
 ###
 <h1>hello,World</h1>
-<cobe>你好世界</cobe>
 <!--
 **liuyansong8901/liuyansong8901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
